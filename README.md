@@ -16,4 +16,4 @@ I'm Justus, a tech enthusiast with a deep love for algorithms and web developmen
 
 ## 📈 Github stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aqentjus&theme=tokyonight)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqentjus&layout=compact&exclude_repo=r3ne.net&theme=dark&hide_title=true" alt="Aqentjus" /></p>
