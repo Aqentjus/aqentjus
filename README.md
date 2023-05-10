@@ -3,6 +3,7 @@
 <h1 align="center">Ju5tu5</h1>
 
 ### Hi there 👋
+### moro moro
 
 I'm Justus, a tech enthusiast with a deep love for algorithms and web development. I enjoy crafting immersive websites and coding in Python.
 
