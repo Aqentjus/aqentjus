@@ -1,10 +1,6 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=Aqentjus.Aqentjus)
-
 <h1 align="center">Ju5tu5</h1>
 
-### Hi there 👋
-### moro moro
-### toimiikohan tää
+<img src="https://komarev.com/ghpvc/?username=Aqentjus&label=Profile%20views&color=0e75b6&style=flat" alt="Aqentjus" />
 
 I'm Justus, a tech enthusiast with a deep love for algorithms and web development. I enjoy crafting immersive websites and coding in Python.
 
