@@ -4,6 +4,7 @@
 
 ### Hi there 👋
 ### moro moro
+### toimiikohan tää
 
 I'm Justus, a tech enthusiast with a deep love for algorithms and web development. I enjoy crafting immersive websites and coding in Python.
 
