@@ -14,6 +14,7 @@ I'm Justus, a tech enthusiast with a deep love for algorithms and web developmen
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,)](https://skills.thijs.gg)
 </p>
 
 ## 📈 Github stats
