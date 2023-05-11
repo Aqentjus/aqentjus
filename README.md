@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Justus</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqentjus&label=Profile%20views&color=0e75b6&style=flat" alt="aqentjus" /> </p>
 
-<h3 align="center">a tech enthusiast with a deep love for algorithms and web development. I enjoy crafting immersive websites and coding in Python.</h3>
+<h3 align="center">a tech enthusiast with a deep love for algorithms, cybersecurity and web development. I enjoy crafting immersive websites and coding in Python.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
