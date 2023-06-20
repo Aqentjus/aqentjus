@@ -3,7 +3,7 @@
 
 <h3 align="center">a tech enthusiast with a deep love for algorithms and web development. I enjoy crafting immersive websites and coding in Python.</h3>
 
-- 📫 How to reach me **s2200921@edu.bc.fi**
+- 📫 How to reach me **s2200921@edu.bc.f**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
