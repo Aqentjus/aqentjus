@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Justus</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqentjus&label=Profile%20views&color=0e75b6&style=flat" alt="aqentjus" /> </p>
 
-<h3 align="center">a tech enthusiast with a deep love for algorithms and web development. I enjoy crafting immersive websites and coding in Python.</h3>
+<h3 align="center">Passionate about forging a career in data analysis and cybersecurity, with an interest in anomaly detection. I always want to learn and improve in what I do
+
+I’m currently pursuing a dual degree, combining high school studies with information and communication technology at Business College Helsinki. I have also gained practical experience through an internship at WithSecure, where I had the opportunity to learn from some of the best professionals in the field.
+
+I’m also skilled Python coder with expertise in diverse projects: including task automation, sorting and basic machine learning. I’m also good at web development, networking and server wizardry. With an additional interest in cloud computing and advanced algorithms. </h3>
 
 - 📫 How to reach me **s2200921@edu.bc.fi**
 
