@@ -1,15 +1,70 @@
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ju5tu5-venalainen/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Aqentjus) 
+<img src="./assets/profile-header.svg" alt="Justus Venäläinen — networks, systems, automation and local AI" width="100%" />
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=aqentjus)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aqentjus&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aqentjus&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Justus%20Venäläinen-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ju5tu5-venalainen/)
+[![GitHub](https://img.shields.io/badge/GitHub-Aqentjus-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aqentjus)
+[![Location](https://img.shields.io/badge/Helsinki-Finland-7f849c?style=flat-square)](#)
+
+</div>
+
+## `> about`
+
+I’m **Justus**, an ICT engineering student and compulsive tinkerer from Helsinki.
+
+Most of what interests me lives somewhere between **networks, infrastructure, cybersecurity, automation, and local AI**. I like systems that I can understand end-to-end: build them, break them, inspect what happened, and then automate away the boring parts.
+
+My GitHub is less of a polished product catalogue and more of a continuously evolving workshop — configs, utilities, experiments, infrastructure tooling, and whatever rabbit hole looked interesting that week.
+
+```text
+interests  = networking + security + systems + automation + AI
+preferred  = practical > theoretical
+habitat    = terminal / homelab / firewall CLI
+philosophy = understand it → automate it → make it useful
+```
+
+## `> currently building`
+
+- **Local AI assistants** — experimenting with tool use, long-term memory, local/cloud model routing, and useful personal automation.
+- **Homelab infrastructure** — Proxmox, TrueNAS, Docker, n8n, Home Assistant, segmented networking, and the occasional unnecessary amount of firewalling.
+- **Network & security tooling** — Palo Alto, Juniper, Cisco, DNS filtering, VPNs, and small scripts that make infrastructure less annoying.
+- **Developer environment automation** — reproducible editor, terminal, and macOS/Linux setups instead of manually rebuilding the same machine twice.
+
+## `> selected public projects`
+
+| Project | What it is |
+| --- | --- |
+| **[AQENTJUS-EDL-PALO-ALTO](https://github.com/Aqentjus/AQENTJUS-EDL-PALO-ALTO)** | External Dynamic List tooling for domain blocking on Palo Alto firewalls and compatible DNS filtering setups. |
+| **[aerospace-config](https://github.com/Aqentjus/aerospace-config)** | My macOS AeroSpace window-manager setup and workspace automation. |
+| **[neovim-config](https://github.com/Aqentjus/neovim-config)** | An older stop on the never-ending journey toward the perfect editor setup. |
+| **[Ohjelmointi](https://github.com/Aqentjus/Ohjelmointi)** | Programming exercises and experiments while studying software development. |
+
+<sub>Some of the projects I spend the most time on are private, so the public repos only show part of the workshop.</sub>
+
+## `> toolkit`
+
+**Infrastructure & networking**  
+`Palo Alto` · `Juniper` · `Cisco` · `Ubiquiti` · `Proxmox` · `TrueNAS` · `Docker` · `n8n` · `Home Assistant`
+
+**Programming & automation**  
+`Python` · `C` · `PowerShell` · `JavaScript` · `Bash` · `HTML/CSS`
+
+**Systems I regularly poke at**  
+`Linux` · `macOS` · `Windows` · `Git` · `MariaDB/PostgreSQL` · `Nginx` · `Cloudflare`
+
+## `> github telemetry`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aqentjus&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqentjus&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aqentjus&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <sub><code>aqentjus@github:~$</code> still tinkering.</sub>
+</div>
