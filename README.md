@@ -37,9 +37,9 @@ philosophy = understand it → automate it → make it useful
 | Project | What it is |
 | --- | --- |
 | **[AQENTJUS-EDL-PALO-ALTO](https://github.com/Aqentjus/AQENTJUS-EDL-PALO-ALTO)** | External Dynamic List tooling for domain blocking on Palo Alto firewalls and compatible DNS filtering setups. |
-| **[aerospace-config](https://github.com/Aqentjus/aerospace-config)** | My macOS AeroSpace window-manager setup and workspace automation. |
 | **[neovim-config](https://github.com/Aqentjus/neovim-config)** | An older stop on the never-ending journey toward the perfect editor setup. |
 | **[Ohjelmointi](https://github.com/Aqentjus/Ohjelmointi)** | Programming exercises and experiments while studying software development. |
+| **[jira-aql-filter-maker](https://github.com/Aqentjus/jira-aql-filter-maker)** | A small utility project around building Jira AQL filters. |
 
 <sub>Some of the projects I spend the most time on are private, so the public repos only show part of the workshop.</sub>
 
